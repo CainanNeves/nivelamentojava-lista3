@@ -4,19 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b143e9e3-e115-4d1e-8451-369a5fb12150" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questao01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questao02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questao03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questao04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questao05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RandomizeQuestions.java" afterDir="false" />
+    <list default="true" id="b143e9e3-e115-4d1e-8451-369a5fb12150" name="Changes" comment="resolve algumas questoes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/questao10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/questao11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/questao8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/questao47/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/questao47/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,21 +65,51 @@
       <workItem from="1691454360353" duration="340000" />
       <workItem from="1691515553745" duration="15000" />
       <workItem from="1691525416538" duration="4000" />
+      <workItem from="1691525683925" duration="488000" />
+      <workItem from="1691526480438" duration="971000" />
+      <workItem from="1691529907597" duration="758000" />
+      <workItem from="1691532235174" duration="11000" />
+      <workItem from="1691536815680" duration="1545000" />
     </task>
+    <task id="LOCAL-00001" summary="resolve algumas questoes">
+      <option name="closed" value="true" />
+      <created>1691526043385</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691526043385</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/RandomizeQuestions.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="resolve algumas questoes" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolve algumas questoes" />
   </component>
 </project>
